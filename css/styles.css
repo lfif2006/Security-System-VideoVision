@@ -63,6 +63,7 @@
     font-display: swap;
 }
 
+
 @font-face {
     font-family: 'NicoMoji';
     src: url('fonts/NicoMoji-Regular.woff2') format('woff2');
@@ -772,7 +773,7 @@ progress::-webkit-progress-value {
     left: 40px;
     right: 40px;
     bottom: 40px;
-    background-image: url('images/imageCompany.png');
+    background-image: url('/images/imageCompany.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
